@@ -1,3 +1,3 @@
 # WEBT 1320 SG
 
-<a href" INTRO TO HTML/index.html"=>Intro to HTML</a>
+<a href="intro_to_html"/index.html>Intro to HTML</a>
